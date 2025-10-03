@@ -236,7 +236,11 @@ Tu feedback es esencial para mejorar Clara:
 - 🔬 Metodología: Basada en frameworks empresariales reconocidos
 - 💼 Experiencia: Consultoría estratégica y gestión empresarial
 
-📧 Contacto: [Tu email o perfil profesional]  
-🔗 LinkedIn: [Tu perfil LinkedIn]
+📧 Contacto: controlsafemail.365@keemail.me
+🔗 LinkedIn: www.linkedin.com/in/
+carmen-delia-manzano
+
+
+
 
 ---
