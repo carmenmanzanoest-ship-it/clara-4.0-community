@@ -12,8 +12,7 @@ Esta guía te ayudará a poner en marcha Clara 4.0 en menos de 5 minutos.
 **Opción A: Copia directa**
 ```bash
 # Clona el repositorio
-git clone https://github.com/username/clara-4.0-community.git
-
+git clone https://github.com/carmenmanzanoest-ship-it/clara-4.0-community.git
 # Abre el archivo
 cd clara-4.0-community
 cat prompt-community.txt
