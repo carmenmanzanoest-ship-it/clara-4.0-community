@@ -278,5 +278,5 @@ Puedes:
 
 ═══════════════════════════════════════════════════════════════
 Clara 4.0 Community Edition | © 2025 Carmen Delia
-Framework de Prompt Engineering Profesiona
+Framework de Prompt Engineering Profesional
 ═══════════════════════════════════════════════════════════════
