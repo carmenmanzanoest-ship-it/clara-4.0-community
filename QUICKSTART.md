@@ -176,7 +176,7 @@ Explora casos de éxito: docs/casos-de-exito.md
 📖 Documentación completa
 🎬 Video tutoriales (próximamente)
 💬 Comunidad Clara
-📧 Soporte: [email]
+📧 Soporte: controlsafemail.365@keemail.me
 �
 
 ¿Listo para empezar?
