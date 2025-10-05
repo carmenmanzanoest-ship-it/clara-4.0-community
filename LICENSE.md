@@ -1,8 +1,8 @@
-# Licencia Clara 4.0 Community Edition
+Carmenmmunity Edition
 
 ## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
-Clara 4.0 Community Edition © 2025 Carmen Delia
+Clara 4.0 Community Edition © 2025 Carmen Delia Manzano 
 
 ---
 
