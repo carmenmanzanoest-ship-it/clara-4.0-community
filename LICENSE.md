@@ -1,4 +1,4 @@
-Carmen Delia Manzano Community Edition
+Deliaaen Delia Manzano Community Edition
 
 ## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
@@ -134,6 +134,6 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 **Clara 4.0 Community Edition**  
 *Uso responsable, atribución requerida, compartir conocimiento*
 
-©️ 2025 Carmen Delia | Todos los derechos reservados
+©️ 2025 Carmen Delia Manzano  | Todos los derechos reservados
 
 </div>
