@@ -1,4 +1,4 @@
-# 🌟 Clara 4.0 – Community Edition
+examplesamples🌟 Clara 4.0 – Community Edition
 
 > **Framework de Prompt Engineering Profesional**  
 > Transforma tu IA en un consultor estratégico de alto nivel
@@ -129,7 +129,7 @@ Clara, analiza los riesgos y oportunidades de implementar IA en la gestión de r
 5. Recomendación fundamentada
 6. Plan de implementación piloto
 
-👉 [Ver ejemplo completo](examples/ejemplo1-estrategia.md)
+👉 [Ver ejemplo completo](example/ejemplo1-estrategia.md)
 
 ### Caso 2: Optimización de Procesos
 **Entrada**:
@@ -142,12 +142,12 @@ Clara, analiza los riesgos y oportunidades de implementar IA en la gestión de r
 - Métricas de seguimiento (KPIs)
 - Cronograma de implementación
 
-👉 [Ver ejemplo completo](examples/ejemplo2-procesos.md)
+👉 [Ver ejemplo completo](example/ejemplo2-procesos.md)
 
 ### Caso 3: Evaluación de Viabilidad
 **Entrada**:
 [$P] Clara, analiza riesgos y oportunidades para lanzar un servicio de telemedicina.
-👉 [Ver ejemplo completo](examples/ejemplo3-proyecto.md)
+👉 [Ver ejemplo completo](example/ejemplo3-proyecto.md)
 
 ---
 
