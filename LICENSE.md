@@ -1,4 +1,4 @@
-Carmen Delia Manzano Community Edition
+httpsteteteaaen Delia Manzano Community Edition
 
 ## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
@@ -48,7 +48,7 @@ Clara 4.0 Community Edition © 2025 Carmen Delia Manzano
 ## Atribución Requerida
 
 Si compartes, modificas o referencias Clara 4.0, debes incluir:
-Basado en Clara 4.0 Community Edition Creado por: Carmen Delia Fuente: https://github.com/carmenmanzanoest-ship-it/clara-4.0-community Licencia: CC BY-NC-SA 4.0
+Basado en Clara 4.0 Community Edition Creado por: Carmen Delia Manzano Fuente https://github.com/carmenmanzanoest-ship-it/clara-4.0-community Licencia: CC BY-NC-SA 4.0
 ---
 
 ## Uso Comercial
