@@ -63,7 +63,7 @@ La versión **Professional** está disponible bajo licencia comercial separada.
 - Actualizaciones prioritarias
 - Soporte comercial
 
-**Contacto para licencias comerciales**: [Tu email de contacto]
+**Contacto para licencias comerciales**: controlsafemail.365@keemail.me
 
 ---
 
