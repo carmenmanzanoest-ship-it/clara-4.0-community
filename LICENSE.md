@@ -116,8 +116,7 @@ Fecha de última actualización: Octubre 2025
 Para consultas sobre licencias, permisos especiales o uso comercial:
 
 📧 Email: controlsafemail.365@keemail.me
-🔗 LinkedIn: www.linkedin.com/in/
-carmen-delia-manzano
+🔗 LinkedIn: https://www.linkedin.com/in/carmen-delia-manzano
 🌐 Web:https://raizdetuserblog.blogspot.com
 
 ---
