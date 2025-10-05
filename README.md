@@ -195,10 +195,15 @@ Clara 4.0 es útil en:
 
 Tu feedback es esencial para mejorar Clara:
 
-- 💬 **Reporta problemas**: Abre un [Issue](../../issues) si encuentras bugs o mejoras
+- 💬 **Reporta problemas**: Abre un [Issue](https://github.com/carmenmanzanoest-ship-it/clara-4.0-community/issues) si encuentras bugs o mejoras
 - ⭐ **Dale una estrella** si Clara te ha sido útil
-- 📢 **Comparte tu experiencia**: Añade tu caso de uso en [Discussions](../../discussions)
+- 📢 **Comparte tu experiencia**: Añade tu caso de uso en [Discussions](https://github.com/carmenmanzanoest-ship-it/clara-4.0-community/discussions)
 - 🔀 **Sugiere mejoras**: Pull requests bienvenidos
+- 
+
+
+
+
 
 ---
 
