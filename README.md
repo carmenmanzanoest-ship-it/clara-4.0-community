@@ -1,4 +1,4 @@
-# 🌟 Clara 4.0 – Community Edition
+DeliaClara 4.0 – Community Edition
 
 > **Framework de Prompt Engineering Profesional**  
 > Transforma tu IA en un consultor estratégico de alto nivel
@@ -231,7 +231,7 @@ Tu feedback es esencial para mejorar Clara:
 
 ## 📌 Autoría
 
-**Clara 4.0** es un sistema de prompt engineering profesional desarrollado por **Carmen Delia**.
+**Clara 4.0** es un sistema de prompt engineering profesional desarrollado por **Carmen Delia Manzano**.
 
 - 🎯 Enfoque: Claridad, precisión y visión estratégica
 - 🔬 Metodología: Basada en frameworks empresariales reconocidos
