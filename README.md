@@ -1,4 +1,4 @@
-Carmen Delia Manzano Clara 4.0 – Community Edition
+M# 🌟 Clara 4.0 – Community Edition
 
 > **Framework de Prompt Engineering Profesional**  
 > Transforma tu IA en un consultor estratégico de alto nivel
