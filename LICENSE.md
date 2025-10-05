@@ -1,4 +1,4 @@
-Deliaaen Delia Manzano Community Edition
+Carmen Delia Manzano Community Edition
 
 ## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
