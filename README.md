@@ -1,4 +1,13 @@
 <div align="center">
+  <img src="assets/clara.banner.png" alt="Clara 4.0" width="100%">
+</div>
+
+
+
+
+
+
+<div align="center">
 
 ![Version](https://img.shields.io/badge/version-4.0.0-blue?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
