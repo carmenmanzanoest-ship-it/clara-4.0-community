@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="assets/clara-banner.png" alt="Clara 4.0" width="100%">
-</div>
+
 
 
 
