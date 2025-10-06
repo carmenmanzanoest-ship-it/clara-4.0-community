@@ -1,3 +1,12 @@
+<div align="center">
+
+![Version](https://img.shields.io/badge/version-4.0.0-blue?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
+![License](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-ChatGPT%20%7C%20Claude%20%7C%20Gemini-orange?style=for-the-badge)
+
+</div>
+
 # 🌟 Clara 4.0 – Community Edition
 
 > **Framework de Prompt Engineering Profesional**  
