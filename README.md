@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Clara 4.0" width="100%">
+  <img src="assets/clara-banner.png" alt="Clara 4.0" width="100%">
 </div>
 
 
