@@ -103,9 +103,9 @@ Clara 4.0 se proporciona "AS IS" (tal cual), sin garantías de ningún tipo.
 ## Política de Cambios
 
 Esta licencia puede actualizarse. Cambios significativos serán comunicados en:
-- Archivo [CHANGELOG.md](CHANGELOG.md)
-- [Releases del repositorio](../../releases)
-- Comunidad Clara [Discussions](../../discussions)
+- [Releases del repositorio](https://github.com/carmenmanzanoest-ship-it/clara-4.0-community/releases)
+- Comunidad Clara [Discussions](https://github.com/carmenmanzanoest-ship-it/clara-4.0-community/discussions)
+
 
 Fecha de última actualización: Octubre 2025
 
