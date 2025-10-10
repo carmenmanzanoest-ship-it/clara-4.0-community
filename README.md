@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Badges principales unificados -->
