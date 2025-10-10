@@ -1,13 +1,38 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-4.0.0-blue?style=for-the-badge&logo=github)
-![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
-![License](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-green?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-ChatGPT%20%7C%20Claude%20%7C%20Gemini-orange?style=for-the-badge)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub issues](https://img.shields.io/github/issues/carmenmanzanoest-ship-it/clara-4.0-community?color=blue)](https://github.com/carmenmanzanoest-ship-it/clara-4.0-community/issues)
+<!-- Badges principales unificados -->
+<a href="https://github.com/carmenmanzanoest-ship-it/clara-4.0-community/releases/tag/v4.0.0" title="Versión 4.0.0">
+  <img src="https://img.shields.io/badge/version-4.0.0-blue?style=for-the-badge&logo=github&logoColor=white" alt="Version">
+</a>
 
+<a href="#" title="Estado activo">
+  <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="Status">
+</a>
+
+<a href="LICENSE.md" title="Licencia CC BY-NC-SA 4.0">
+  <img src="https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-green?style=for-the-badge" alt="License">
+</a>
+
+<a href="https://openai.com/chatgpt" title="Compatible con ChatGPT">
+  <img src="https://img.shields.io/badge/ChatGPT-Compatible-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+</a>
+
+<a href="https://claude.ai" title="Compatible con Claude (Anthropic)">
+  <img src="https://img.shields.io/badge/Claude-Compatible-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+</a>
+
+<a href="https://gemini.google.com" title="Compatible con Gemini (Google AI)">
+  <img src="https://img.shields.io/badge/Gemini-Compatible-1E88E5?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
+</a>
+
+<a href="CONTRIBUTING.md" title="Contribuciones bienvenidas">
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge" alt="Contributions">
+</a>
+
+<a href="https://github.com/carmenmanzanoest-ship-it/clara-4.0-community/issues" title="Ver issues en GitHub">
+  <img src="https://img.shields.io/github/issues/carmenmanzanoest-ship-it/clara-4.0-community?style=for-the-badge&color=blue" alt="GitHub issues">
+</a>
 
 </div>
 
