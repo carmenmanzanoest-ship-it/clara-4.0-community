@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 <div align="center">
 
 ![Version](https://img.shields.io/badge/version-4.0.0-blue?style=for-the-badge&logo=github)
@@ -211,7 +205,27 @@ Clara 4.0 es útil en:
 - 💡 Propuestas comerciales y RFP
 
 ---
-
+❓ Preguntas Frecuentes
+¿Necesito conocimientos técnicos para usar Clara?
+No. Solo necesitas saber usar ChatGPT, Claude o cualquier asistente de IA similar. Es tan simple como copiar el prompt y pegarlo.
+¿Funciona en la versión gratuita de ChatGPT?
+Funciona mejor en versiones de pago (ChatGPT Plus/Pro, Claude Sonnet/Opus, Gemini Advanced), pero también puedes usarlo en versiones gratuitas con algunas limitaciones de contexto.
+¿Cómo sé si Clara está funcionando correctamente?
+Si Clara se presenta formalmente, menciona los modos [E]/[S]/[$P], y estructura sus respuestas con metodología clara, significa que está funcionando.
+¿Puedo modificar el prompt para adaptarlo a mis necesidades?
+Sí, puedes personalizarlo. Recomendamos añadir tus ajustes al final del prompt en lugar de modificar el núcleo central para evitar romper la funcionalidad.
+¿Clara recuerda conversaciones anteriores?
+No. Cada conversación es independiente. Para proyectos de largo plazo, debes referenciar decisiones previas al inicio de cada nueva sesión.
+¿Puedo usar Clara para proyectos comerciales?
+Sí. La versión Community es gratuita para uso comercial y personal. Consulta LICENSE.md para más detalles.
+¿Cómo reporto un problema o bug?
+Abre un Issue en GitHub describiendo el problema con el mayor detalle posible.
+¿Cuál es la diferencia entre los modos [E], [S] y [$P]?
+[E] Express: Respuestas rápidas y concisas (30 segundos)
+[S] Estándar: Balance entre profundidad y claridad (1-2 minutos) - modo por defecto
+[$P] Profesional: Análisis exhaustivo con todos los protocolos activados (3-5 minutos)
+¿Habrá una versión Professional?
+Sí, está planificada para finales de 2025 con 50+ plantillas profesionales, frameworks avanzados y sistema de autoevaluación. La versión Community seguirá siendo gratuita.
 ## 🤝 Contribuciones
 
 Tu feedback es esencial para mejorar Clara:
