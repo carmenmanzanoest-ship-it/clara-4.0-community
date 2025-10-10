@@ -246,29 +246,44 @@ Clara 4.0 es útil en:
 **¿Usaste Clara?** [Comparte tu experiencia aquí](https://github.com/carmenmanzanoest-ship-it/clara-4.0-community/issues)
 
 ---
----
-❓ Preguntas Frecuentes
-¿Necesito conocimientos técnicos para usar Clara?
-No. Solo necesitas saber usar ChatGPT, Claude o cualquier asistente de IA similar. Es tan simple como copiar el prompt y pegarlo.
-¿Funciona en la versión gratuita de ChatGPT?
-Funciona mejor en versiones de pago (ChatGPT Plus/Pro, Claude Sonnet/Opus, Gemini Advanced), pero también puedes usarlo en versiones gratuitas con algunas limitaciones de contexto.
-¿Cómo sé si Clara está funcionando correctamente?
-Si Clara se presenta formalmente, menciona los modos [E]/[S]/[$P], y estructura sus respuestas con metodología clara, significa que está funcionando.
-¿Puedo modificar el prompt para adaptarlo a mis necesidades?
-Sí, puedes personalizarlo. Recomendamos añadir tus ajustes al final del prompt en lugar de modificar el núcleo central para evitar romper la funcionalidad.
-¿Clara recuerda conversaciones anteriores?
-No. Cada conversación es independiente. Para proyectos de largo plazo, debes referenciar decisiones previas al inicio de cada nueva sesión.
-¿Puedo usar Clara para proyectos comerciales?
-Sí. La versión Community es gratuita para uso comercial y personal. Consulta LICENSE.md para más detalles.
-¿Cómo reporto un problema o bug?
-Abre un Issue en GitHub describiendo el problema con el mayor detalle posible.
-¿Cuál es la diferencia entre los modos [E], [S] y [$P]?
-[E] Express: Respuestas rápidas y concisas (30 segundos)
-[S] Estándar: Balance entre profundidad y claridad (1-2 minutos) - modo por defecto
-[$P] Profesional: Análisis exhaustivo con todos los protocolos activados (3-5 minutos)
-¿Habrá una versión Professional?
-Sí, está planificada para finales de 2025 con 50+ plantillas profesionales, frameworks avanzados y sistema de autoevaluación. La versión Community seguirá siendo gratuita.
-## 🤝 Contribuciones
+## ❓ Preguntas Frecuentes (FAQ)
+
+### **¿Clara 4.0 requiere conocimientos técnicos?**
+No. Solo necesitas saber usar ChatGPT, Claude o similar. Es copy-paste del prompt.
+
+### **¿Funciona en la versión gratuita de ChatGPT?**
+Funciona mejor en versiones Plus/Pro, pero la versión gratuita también puede usarlo con limitaciones de contexto.
+
+### **¿Cómo sé si está funcionando correctamente?**
+Si Clara se presenta formalmente, ofrece modos [E]/[S]/[$P] y estructura sus respuestas con metodología clara, está funcionando.
+
+### **¿Puedo modificar el prompt para mis necesidades?**
+Sí, pero ten cuidado de no romper la estructura. Recomendamos añadir secciones al final en lugar de modificar el núcleo.
+
+### **¿Clara guarda información entre conversaciones?**
+No. Cada conversación es independiente. Para proyectos largos, debes referenciar decisiones previas al inicio de nuevas sesiones.
+
+### **¿Cuál es la diferencia con la versión Professional?**
+| Característica | Community (Gratis) | Professional (Futuro) |
+|----------------|-------------------|----------------------|
+| Modos [E]/[S]/[$P] | ✅ | ✅ |
+| Frameworks básicos | ✅ (3-5) | ✅ (20+) |
+| Plantillas | ❌ | ✅ (50+) |
+| Sistema de autoevaluación | ❌ | ✅ |
+| Cobertura sectorial | Básica | Especializada |
+| Actualizaciones | Ocasionales | Continuas |
+
+### **¿Puedo usar Clara para proyectos comerciales?**
+Sí, la versión Community es gratuita para uso comercial y personal. Ver [LICENSE.md](LICENSE.md).
+
+### **¿Cómo reporto un problema?**
+Abre un [Issue en GitHub](https://github.com/carmenmanzanoest-ship-it/clara-4.0-community/issues) con detalles de lo que no funciona.
+
+### **¿Cuándo estará disponible la versión Professional?**
+Estimado: Q4 2025. Suscríbete a las [Discussions](https://github.com/carmenmanzanoest-ship-it/clara-4.0-community/discussions) para recibir actualizaciones.
+
+
+🤝 Contribuciones
 
 Tu feedback es esencial para mejorar Clara:
 
