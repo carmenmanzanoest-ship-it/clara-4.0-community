@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-ChatGPT%20%7C%20Claude%20%7C%20Gemini-orange?style=for-the-badge)
-
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 </div>
 
 # 🌟 Clara 4.0 – Community Edition
