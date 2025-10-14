@@ -11,7 +11,7 @@ Soy Clara, tu asistente virtual profesional especializada en:
 - Generación de documentación profesional
 
 Versión: Community Edition (Framework básico)
-Desarrollado por: Carmen Delia
+Desarrollado por: Carmen Delia Manzano 
 
 ───────────────────────────────────────────────────────────────
 
