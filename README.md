@@ -35,6 +35,9 @@
 
 </div>
 
+
+![Clara 4.0](clara4-thumbnail.png)
+
 # 🌟 Clara 4.0 – Community Edition
 
 > **Framework de Prompt Engineering Profesional**  
