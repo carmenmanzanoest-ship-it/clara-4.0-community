@@ -40,6 +40,7 @@
 
 # 🌟 Clara 4.0 – Community Edition
 
+🟠 [Apoya el lanzamiento en Product Hunt](https://www.producthunt.com/products/clara-4-0-community-edition)
 > **Framework de Prompt Engineering Profesional**  
 > Transforma tu IA en un consultor estratégico de alto nivel
 
