@@ -338,3 +338,18 @@ Tu feedback es esencial para mejorar Clara:
 Este proyecto se comparte en modalidad **Community (uso gratuito y abierto con limitaciones)**.  
 La redistribución, modificación o venta del contenido sin autorización está prohibida.  
 Consulta la [LICENSE.md](LICENSE.md) para más detalles.
+
+
+---
+
+## 🏅 Badges & Recognition
+
+These badges reflect active participation and community engagement on [Product Hunt](https://www.producthunt.com/@carmen_delia_manzano/badges).
+
+[![Tastemaker Badge](https://img.shields.io/badge/Product_Hunt-Tastemaker-ff6600?logo=producthunt)](https://www.producthunt.com/@carmen_delia_manzano/badges)
+[![Gone Streaking 2 Days](https://img.shields.io/badge/Product_Hunt-Gone_Streaking_2_Days-f08080?logo=producthunt)](https://www.producthunt.com/@carmen_delia_manzano/badges)
+[![Gone Streaking 5 Days](https://img.shields.io/badge/Product_Hunt-Gone_Streaking_5_Days-f4a460?logo=producthunt)](https://www.producthunt.com/@carmen_delia_manzano/badges)
+
+> 🏆 *Recognized on Product Hunt for continuous activity and contribution to the maker community (October 2025).*
+
+---
