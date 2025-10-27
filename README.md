@@ -56,7 +56,7 @@
 🟠 [Apoya el lanzamiento en Product Hunt](https://www.producthunt.com/products/clara-4-0-community-edition)
 
 
-[Apoya a Clara 4.0 Community en DEV](https://dev.to/carmenmanzanoestshipit/-clara-40-community-edition-framework-open-source-para-asistentes-de-ia-fpl)
+🟢 [Apoya a Clara 4.0 Community en DEV](https://dev.to/carmenmanzanoestshipit/-clara-40-community-edition-framework-open-source-para-asistentes-de-ia-fpl)
 
 
 
