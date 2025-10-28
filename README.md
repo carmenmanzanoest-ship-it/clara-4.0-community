@@ -386,3 +386,12 @@ These badges reflect active participation and community engagement on [Product H
 > 🏆 *Recognized on Product Hunt for continuous activity and contribution to the maker community (October 2025).*
 
 ---
+
+
+<h3 align="center">🏅 Reconocimientos en Dev</h3>
+
+<p align="center">
+  <a href="https://dev.to/carmenmanzanoest-ship-it">
+    <img src="https://img.shields.io/badge/DEV-1_Week_Community_Wellness_Streak-0A0A0A?logo=dev.to&style=for-the-badge" alt="1 Week Community Wellness Streak Badge"/>
+  </a>
+</p>
