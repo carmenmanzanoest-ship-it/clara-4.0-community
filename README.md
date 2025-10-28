@@ -391,7 +391,7 @@ These badges reflect active participation and community engagement on [Product H
 <h3 align="center">🏅 Reconocimientos en Dev</h3>
 
 <p align="center">
-  <a href="https://dev.to/carmenmanzanoestshipit" title="Ver perfil en Dev">
+  <a href="https://dev.to/carmenmanzanoestshipit/badges" title="Ver tus badges en Dev">
     <img src="https://img.shields.io/badge/DEV-1_Week_Community_Wellness_Streak-0A0A0A?logo=dev.to&style=for-the-badge" alt="1 Week Community Wellness Streak Badge"/>
   </a>
 </p>
