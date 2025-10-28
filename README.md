@@ -370,6 +370,11 @@ These badges reflect active participation and community engagement on [Product H
 [![Gone Streaking 2 Days](https://img.shields.io/badge/Product_Hunt-Gone_Streaking_2_Days-f08080?logo=producthunt)](https://www.producthunt.com/@carmen_delia_manzano/badges)
 [![Gone Streaking 5 Days](https://img.shields.io/badge/Product_Hunt-Gone_Streaking_5_Days-f4a460?logo=producthunt)](https://www.producthunt.com/@carmen_delia_manzano/badges)
 
+<h3 align="center">🏅 Reconocimientos</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gone%20Streaking%20🔥-10%20Days-blueviolet?style=for-the-badge" alt="Gone Streaking 10 Days"/>
+</p>
 > 🏆 *Recognized on Product Hunt for continuous activity and contribution to the maker community (October 2025).*
 
 ---
