@@ -366,15 +366,23 @@ Consulta la [LICENSE.md](LICENSE.md) para más detalles.
 
 These badges reflect active participation and community engagement on [Product Hunt](https://www.producthunt.com/@carmen_delia_manzano/badges).
 
-[![Tastemaker Badge](https://img.shields.io/badge/Product_Hunt-Tastemaker-ff6600?logo=producthunt)](https://www.producthunt.com/@carmen_delia_manzano/badges)
-[![Gone Streaking 2 Days](https://img.shields.io/badge/Product_Hunt-Gone_Streaking_2_Days-f08080?logo=producthunt)](https://www.producthunt.com/@carmen_delia_manzano/badges)
-[![Gone Streaking 5 Days](https://img.shields.io/badge/Product_Hunt-Gone_Streaking_5_Days-f4a460?logo=producthunt)](https://www.producthunt.com/@carmen_delia_manzano/badges)
 
 <h3 align="center">🏅 Reconocimientos</h3>
 
 <p align="center">
+  <a href="https://www.producthunt.com/@carmen_delia_manzano/badges">
+    <img src="https://img.shields.io/badge/Product_Hunt-Tastemaker-ff6600?logo=producthunt" alt="Tastemaker Badge"/>
+    <img src="https://img.shields.io/badge/Product_Hunt-Gone_Streaking_2_Days-f08080?logo=producthunt" alt="Gone Streaking 2 Days"/>
+    <img src="https://img.shields.io/badge/Product_Hunt-Gone_Streaking_5_Days-f4a460?logo=producthunt" alt="Gone Streaking 5 Days"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Gone%20Streaking%20🔥-10%20Days-blueviolet?style=for-the-badge" alt="Gone Streaking 10 Days"/>
 </p>
+
+
+
 > 🏆 *Recognized on Product Hunt for continuous activity and contribution to the maker community (October 2025).*
 
 ---
